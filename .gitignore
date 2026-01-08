@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Data files
+data/
+datasets/
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Model checkpoints
+models/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+
+# Logs
+logs/
+*.log
+
+# Visualizations / outputs
+figures/
+images/
+*.png
+*.jpg
+*.jpeg
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Mac
+.DS_Store
+
+# Misc
+*.tmp
+*.swp
